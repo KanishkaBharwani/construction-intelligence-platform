@@ -5,6 +5,10 @@
 [![React](https://img.shields.io/badge/React-18.0-61DAFB.svg)](https://react.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.4-38B2AC.svg)](https://tailwindcss.com/)
 [![OSHA & ACI](https://img.shields.io/badge/Standards-OSHA%201926%20|%20ACI%20318-orange.svg)](https://www.osha.gov/)
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/KanishkaBharwani/construction-intelligence-platform)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/KanishkaBharwani/construction-intelligence-platform)
+
 [![Deploy on Render](https://img.shields.io/badge/Deploy-Render-46E3B7.svg)](https://render.com)
 [![Deploy with Vercel](https://img.shields.io/badge/Deploy-Vercel-black.svg)](https://vercel.com)
 
